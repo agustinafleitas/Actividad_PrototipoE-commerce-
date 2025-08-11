@@ -24,7 +24,7 @@ Analizar sitios de comercio online reales para identificar patrones comunes de d
 
 ## ✅ Parte 2: Prototipo en Figma
 
-1. Diseñen una **pantalla de producto** para un e-commerce ficticio, utilizando Figma (puede ser individual o colaborativo).
+1. Diseñen una **pantalla de producto** para su proyecto e-commerce, utilizando Figma (puede ser individual o colaborativo).
 2. La entrega consiste en el enlace al prototipo 
 
 ---
@@ -34,4 +34,5 @@ Analizar sitios de comercio online reales para identificar patrones comunes de d
 1. Clonen este repositorio.
 2. Divídanse tareas (uno puede crear una rama `analisis`, otro `diseño`, etc.).
 3. Suban su trabajo al repositorio remoto.
+
 ---
